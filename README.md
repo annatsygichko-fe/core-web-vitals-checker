@@ -1,4 +1,5 @@
 # CoreVitals — Core Web Vitals Checker
+Live demo: https://core-web-vitals-checker-six.vercel.app/
 
 A web app that analyzes any public website with the **Google PageSpeed Insights API** and turns the results into a clear report: Core Web Vitals, performance score, SEO and accessibility audits, and prioritized recommendations.
 
